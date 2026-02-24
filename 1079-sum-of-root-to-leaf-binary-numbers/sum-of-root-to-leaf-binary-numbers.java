@@ -26,8 +26,8 @@ class Solution {
             return sum;
         }
 
-        int left = dfs(node.left,sum);
-        int right = dfs(node.right,sum);
-        return left + right;
+        int leftSum = dfs(node.left,sum);
+        int rightSum = dfs(node.right,sum);
+        return leftSum + rightSum;
     }
 }
