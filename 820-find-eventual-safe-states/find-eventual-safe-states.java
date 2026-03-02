@@ -53,6 +53,8 @@ class Solution {
         //mark the current node as a safe node and mark pathVis as 0 and return false
         //which means there no cycle formed
         ans[node] = 1;//1 means it is a safe node
+                      //defaultly ans stores 0's for all nodes which means unsafe we inly
+                      //marked 1 for only those safe nodes
         pathVis[node] = 0;
         return false;
     }
