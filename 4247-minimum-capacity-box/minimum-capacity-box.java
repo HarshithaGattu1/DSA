@@ -5,7 +5,7 @@ class Solution {
             if(capacity[i] >= itemSize && minBoxInd==-1) {
                 minBoxInd = i;
             }
-            if(minBoxInd!=-1&&capacity[i] >= itemSize && capacity[i] < capacity[minBoxInd] ) {
+            if(capacity[i] >= itemSize && capacity[i] < capacity[minBoxInd] ) {
                 minBoxInd = i;
             }
         }
