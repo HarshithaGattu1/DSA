@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/HarshithaGattu1/DSA/tree/master/2906-construct-product-matrix) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshithaGattu1/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Matrix
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/HarshithaGattu1/DSA/tree/master/2906-construct-product-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshithaGattu1/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 <!---LeetCode Topics End-->
